@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class SQLManagement {
 
-    private static final String ConnectionStr = "jdbc:mysql://localhost:3306/appfollow?user=root&password=cemal.can159";
+    private static final String ConnectionStr = "jdbc:mysql://localhost:3306/appfollow?user=root&password=12345";
     
  public static void transfer(){
      //Transfer:  Database=>Arraylists,Tables
