@@ -11,8 +11,12 @@ It is designed for businesses that operate with appointment systems such as clin
 - Cancel appointment
 - Reschedule appointment
 - Personalized dashboard
-- <img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/d7844808-86aa-4314-adfb-152f96f44162" />
-- <img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/dd33f42b-01c7-4225-86d0-6435fc87bd6e" />
+<img width="478" height="426" alt="image" src="https://github.com/user-attachments/assets/49f195b2-bd08-4c82-bc3f-3bafae34eae4" />
+
+
+#### -Reschedule Panel
+<img width="898" height="583" alt="image" src="https://github.com/user-attachments/assets/582916e4-fd9b-47a4-8bb2-f101c4377229" />
+
 
 
 ### 🛠️ Admin Panel
@@ -23,7 +27,8 @@ It is designed for businesses that operate with appointment systems such as clin
 - View and delete users
 - View admin list
 - Detailed user information section
-<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/5ecfa3e0-9385-421d-bc2d-d0b1be4da434" />
+<img width="1139" height="543" alt="image" src="https://github.com/user-attachments/assets/f471d16a-2f9a-4df7-b82d-5ffdd61bd9a0" />
+
 
 ---
 
